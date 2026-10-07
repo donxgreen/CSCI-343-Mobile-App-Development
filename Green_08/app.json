@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "Pine Ridge Campground",
+    "slug": "green-08",
+    "version": "1.0.0",
+    "orientation": "default",
+    "userInterfaceStyle": "light",
+    "plugins": [
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/images/camping-splash.jpg",
+          "imageWidth": 260,
+          "resizeMode": "contain",
+          "backgroundColor": "#143C34"
+        }
+      ]
+    ],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}

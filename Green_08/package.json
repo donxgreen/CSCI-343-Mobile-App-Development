@@ -1,0 +1,21 @@
+{
+  "name": "green_08",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios"
+  },
+  "dependencies": {
+    "@react-native-community/datetimepicker": "8.4.4",
+    "expo": "~54.0.37",
+    "expo-font": "~14.0.12",
+    "expo-splash-screen": "~31.0.13",
+    "react": "19.1.0",
+    "react-native": "0.81.5",
+    "react-native-safe-area-context": "~5.6.0",
+    "react-native-wheely": "0.6.0"
+  }
+}
