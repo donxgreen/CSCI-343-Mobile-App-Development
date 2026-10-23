@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Vacation Destinations",
+    "slug": "green-09",
+    "version": "1.0.0",
+    "orientation": "default",
+    "userInterfaceStyle": "light",
+    "plugins": [
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/images/splash.png",
+          "imageWidth": 200,
+          "resizeMode": "contain",
+          "backgroundColor": "#153B4F"
+        }
+      ]
+    ],
+    "ios": { "supportsTablet": true }
+  }
+}
