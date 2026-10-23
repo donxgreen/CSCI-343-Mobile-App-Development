@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "Newsroom",
+    "slug": "green-10",
+    "version": "1.0.0",
+    "orientation": "default",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true
+    },
+    "plugins": [
+      "expo-font",
+      [
+        "expo-splash-screen",
+        {
+          "backgroundColor": "#17324D"
+        }
+      ]
+    ]
+  }
+}
