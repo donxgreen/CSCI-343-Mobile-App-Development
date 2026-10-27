@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Top 10 Movies",
+    "slug": "green-04",
+    "version": "1.0.0",
+    "orientation": "default",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true
+  }
+}

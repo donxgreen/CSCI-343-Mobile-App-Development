@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Coastal Table",
+    "slug": "green-05",
+    "version": "1.0.0",
+    "orientation": "default",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "plugins": ["expo-font"]
+  }
+}
